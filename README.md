@@ -9,7 +9,7 @@ There are currently ```419``` games in the GameVault. They may not all be on the
 #### Requirements:
 
 - Must be able to run statically
-- Must run off of one (1) index.html _or_ main.html
+- Must run off of one (1) index.html _or_ main.html (You can have as many files as you want, but there must be only one _entry_ file).
 - Can be online
 - Can be mature
 > [!IMPORTANT]
