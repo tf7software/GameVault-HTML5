@@ -20,6 +20,7 @@ There are currently ```419``` games in the GameVault. They may not all be on the
 - Email me using the link in my profile
               _or_
 - Start a new issue with the title ```Game Addition```
+- Can either be a ZIP file _or_ GitHub repo, ***No download links besides GitHub***
 
 ---
 
