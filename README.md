@@ -1,3 +1,12 @@
+# This has been replaced by [LupineVault](https://github.com/LupineVault)
+## This repo has been ARCHIVED
+
+
+---
+
+Old README:
+
+
 # GameVault-HTML5
 A collection over over 400 games written in HTML5
 
